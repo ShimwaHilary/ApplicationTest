@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.igamwana">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".P6Opener"></activity>
+        <activity android:name=".P5Opener" />
+        <activity android:name=".P4Opener" />
+        <activity android:name=".UpperOpener" />
+        <activity android:name=".MiddleOpener" />
+        <activity android:name=".BabyOpener" />
+        <activity android:name=".P3Opener" />
+        <activity android:name=".PrimaryTwo" />
+        <activity android:name=".PrimaryOne" />
+        <activity android:name=".P2Opener" />
+        <activity android:name=".P1List" />
+        <activity android:name=".Finish" />
+        <activity android:name=".UpperClass" />
+        <activity android:name=".MiddleClass" />
+        <activity android:name=".BabyClass" />
+        <activity android:name=".PrimarySix" />
+        <activity android:name=".Primaryfive" />
+        <activity android:name=".PrimaryFour" />
+        <activity android:name=".PrimaryThree" />
+        <activity android:name=".AboutHome" />
+        <activity
+            android:name=".NurseryHome"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PrimaryHome"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Home" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

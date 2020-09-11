@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IgaMwana</string>
+    <string name="description">After founding that Children spend more time using home smart phones
+by playing games than spending time using their notebooks, And also now days
+parents are very busy with their work due to the development effect.
+</string>
+
+    <string name="descriptiontwo">
+ The manual system has a lot of influence that causing big problem that hold us to come up with an idea of
+        developing a mobile App that can help parents in kids coaching.
+</string>
+    <string name="note">All books you have seen in this app are not for us, we
+        a make research by avoiding some mistakes. </string>
+    <string name="reference">
+reb.rw (2020, July 12)from P1 up to P6 books. http://www.reb.rw/home/</string>
+    <string name="reference2">
+reb.rw (2020, July 12)from N1 up to N3 books. http://www.reb.rw/home/</string>
+
+    <string name="reference3">The team behind the creation:</string>
+    <string name="reference4">Hilaire SHIMWAMANA(Developer and Designer )</string>
+    <string name="reference5">Mariam UMUTESI(Developer)</string>
+    <string name="reference6">Bonehuer CEDRIC(Developer)</string>
+    <string name="reference7">Aurelien SHEMA(Developer)</string>
+</resources>
